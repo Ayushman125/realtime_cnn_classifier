@@ -47,7 +47,7 @@ Follow these steps to set up and run the project locally.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Ayushman125/realtime_cnn_classifier.git](https://github.com/Ayushman125/realtime_cnn_classifier.git)
+    git clone https://github.com/Ayushman125/realtime_cnn_classifier.git
     cd realtime_cnn_classifier
     ```
 
@@ -105,7 +105,7 @@ This launches a local web server for browser-based interaction.
 Bash
 
 streamlit run src/app.py
-Your default web browser will open, usually navigating to http://localhost:8501. You can then upload an image or activate the webcam feed directly within the browser for live predictions. To stop: Close the browser tab or press Ctrl+C in the terminal where Streamlit is running.
+Your default web browser will open, usually navigating to http://localhost:8501. You can then upload an image or activate the webcam feed directly within the browser to see real-time predictions. To stop: Close the browser tab or press Ctrl+C in the terminal where Streamlit is running.
 
 Project Structure
 realtime_cnn_classifier/
@@ -154,8 +154,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-
+Contact
 Ayushman Saini - Your GitHub Profile
 [Your LinkedIn Profile (Optional)]
 [Your Email (Optional)]
