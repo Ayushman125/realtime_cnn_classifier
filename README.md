@@ -150,11 +150,7 @@ Description: A third illustration of the model's output on live webcam data, fur
 Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details (You might need to create a https://www.google.com/search?q=LICENSE file).
-
 ## Contact
 
-Ayushman Saini - Your GitHub Profile (e.g., https://github.com/Ayushman125)
-[Your LinkedIn Profile (Optional)]
-[Your Email (Optional)]
+Ayushman Saini - GitHub Profile (e.g., https://github.com/Ayushman125)
+[ayushmansaini120@gmail.com]
