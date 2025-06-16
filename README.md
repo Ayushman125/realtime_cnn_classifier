@@ -143,6 +143,7 @@ Here are visual demonstrations of the project's output:
 
 These screenshots showcase various predictions from the real-time desktop webcam application.
 
+<<<<<<< HEAD
 #### Webcam Output 1
 
 ![Desktop Webcam Inference Example 1](images/desktop_inference_1.png)
@@ -157,11 +158,29 @@ These screenshots showcase various predictions from the real-time desktop webcam
 
 ![Desktop Webcam Inference Example 3](images/desktop_inference_3.png)
 *Description: A third illustration of the model's output on live webcam data, further demonstrating its real-time capabilities.*
+=======
+Webcam Output 1
+Description: A live frame from the desktop application, displaying a digit prediction (e.g., when a handwritten digit is shown or a random pattern is identified).![Project Demo Screenshot](images/desktop_inference_1.png)
+
+
+Webcam Output 2
+Description: Another example of the real-time classification, showing a different prediction or scenario from the webcam feed.
+![Project Demo Screenshot](images/desktop_inference_2.png)
+
+
+Webcam Output 3
+Description: A third illustration of the model's output on live webcam data, further demonstrating its real-time capabilities.
+![Project Demo Screenshot](images/desktop_inference_3.png)
+
 
 Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
 Contact
+
 Ayushman Saini - Your GitHub Profile
 [ayushmansaini120@gmail.com]
+
+[Your LinkedIn Profile (Optional)]
+[Your Email (Optional)]
 <!-- end list -->
