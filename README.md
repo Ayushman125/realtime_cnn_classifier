@@ -154,7 +154,8 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+## Contact
+
 Ayushman Saini - Your GitHub Profile
 [Your LinkedIn Profile (Optional)]
 [Your Email (Optional)]
