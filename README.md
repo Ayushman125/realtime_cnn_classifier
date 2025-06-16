@@ -1,6 +1,6 @@
 # Real-Time Object Classification using CNN
 
-A Convolutional Neural Network (CNN) project demonstrating real-time object classification from webcam input, built with TensorFlow/Keras and OpenCV, featuring an optional Streamlit web interface.
+![Project Demo Screenshot](images/desktop_inference_1.png) A Convolutional Neural Network (CNN) project demonstrating real-time object classification from webcam input, built with TensorFlow/Keras and OpenCV, featuring an optional Streamlit web interface.
 
 ## Table of Contents
 
