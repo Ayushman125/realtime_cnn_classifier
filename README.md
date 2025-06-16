@@ -130,7 +130,33 @@ realtime_cnn_classifier/
 ├── README.md
 ├── requirements.txt
 └── venv/                     # Python virtual environment (ignored by Git)
+## Screenshots of Results
 
+Here are visual demonstrations of the project's output:
+
+### 1. Model Training Accuracy Graph
+
+![Training Accuracy and Loss Graph](images/training_accuracy_graph.png)
+*Description: This graph shows the model's performance during training, illustrating the convergence of both training and validation accuracy/loss over epochs.*
+
+### 2. Desktop Real-Time Inference Examples
+
+These screenshots showcase various predictions from the real-time desktop webcam application.
+
+#### Webcam Output 1
+
+![Desktop Webcam Inference Example 1](images/desktop_inference_1.png)
+*Description: A live frame from the desktop application, displaying a digit prediction (e.g., when a handwritten digit is shown or a random pattern is identified).*
+
+#### Webcam Output 2
+
+![Desktop Webcam Inference Example 2](images/desktop_inference_2.png)
+*Description: Another example of the real-time classification, showing a different prediction or scenario from the webcam feed.*
+
+#### Webcam Output 3
+
+![Desktop Webcam Inference Example 3](images/desktop_inference_3.png)
+*Description: A third illustration of the model's output on live webcam data, further demonstrating its real-time capabilities.*
 
 Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
