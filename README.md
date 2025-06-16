@@ -130,6 +130,8 @@ realtime_cnn_classifier/
 ├── README.md
 ├── requirements.txt
 └── venv/                     # Python virtual environment (ignored by Git)
+```
+
 ## Screenshots of Results
 
 Here are visual demonstrations of the project's output:
@@ -166,6 +168,4 @@ Contact
 Ayushman Saini - Your GitHub Profile
 [ayushmansaini120@gmail.com]
 
-[Your LinkedIn Profile (Optional)]
-[Your Email (Optional)]
 <!-- end list -->
