@@ -1,6 +1,8 @@
 # Real-Time Object Classification using CNN
 
-![Project Demo Screenshot](images/desktop_inference_1.png) A Convolutional Neural Network (CNN) project demonstrating real-time object classification from webcam input, built with TensorFlow/Keras and OpenCV, featuring an optional Streamlit web interface.
+![Project Demo Screenshot](images/desktop_inference_1.png)
+
+A Convolutional Neural Network (CNN) project demonstrating real-time object classification from webcam input, built with TensorFlow/Keras and OpenCV, featuring an optional Streamlit web interface.
 
 ## Table of Contents
 
@@ -87,25 +89,24 @@ The model must be trained before it can be used for inference.
 ```bash
 python -m src.train
 
-This script will download the MNIST dataset, train the CNN model, and save the trained weights to models/trained_cnn_model.h5.
-A plot showing training and validation accuracy/loss will be displayed and saved as results/training_history.png.
+This script will download the MNIST dataset, train the CNN model, and save the trained weights to models/trained_cnn_model.h5. A plot showing training and validation accuracy/loss will be displayed and saved as results/training_history.png.
+
 2. Run Real-Time Webcam Inference (Desktop Application)
 Ensure your webcam is connected and accessible.
 
 Bash
 
 python -m src.inference
-A new window will open displaying your webcam feed with real-time predictions overlaid.
-Press q to quit the webcam feed.
+A new window will open displaying your webcam feed with real-time predictions overlaid. Press q to quit the webcam feed.
+
 3. (Optional) Run the Web Interface (Streamlit)
 This launches a local web server for browser-based interaction.
 
 Bash
 
 streamlit run src/app.py
-Your default web browser will open, usually navigating to http://localhost:8501.
-You can then upload an image or activate the webcam feed directly within the browser for live predictions.
-To stop: Close the browser tab or press Ctrl+C in the terminal where Streamlit is running.
+Your default web browser will open, usually navigating to http://localhost:8501. You can then upload an image or activate the webcam feed directly within the browser for live predictions. To stop: Close the browser tab or press Ctrl+C in the terminal where Streamlit is running.
+
 Project Structure
 realtime_cnn_classifier/
 ├── models/
@@ -151,10 +152,10 @@ Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details (You might need to create a https://www.google.com/search?q=LICENSE file).
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-
-Ayushman Saini - Your GitHub Profile (e.g., https://github.com/Ayushman125)
+Contact
+Ayushman Saini - Your GitHub Profile
 [Your LinkedIn Profile (Optional)]
 [Your Email (Optional)]
+<!-- end list -->
