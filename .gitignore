@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Keras/TensorFlow saved model files (can be large)
+# Only if you want to regenerate them from training code.
+# If your assignment requires the trained model to be uploaded, then REMOVE this line.
+# For this assignment, it seems you need the trained model, so keep `models/` OUT of .gitignore.
+# models/
+
+# Plot results
+results/*.png
+results/*.pdf
+# If you want to upload the screenshot of the training plot, you'll upload it manually or
+# exclude it from the pattern, e.g., only ignore other generated plots:
+# results/training_history.png # If you want to ignore this particular file
+# For this assignment, you need "Screenshots of results", which likely means images
+# you take and put in README.md, not automatically generated plot files.
+# So, ignoring generated plots is generally fine, then you just take a manual screenshot
+# of the plot and put it in your README.
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# IDE files
+.vscode/ # VS Code settings
+.idea/   # PyCharm settings
+
+# Streamlit cache
+.streamlit/
+
+# Other potential large or temporary files
+*.log
+*.ipynb_checkpoints/ # If you use Jupyter Notebooks
