@@ -165,7 +165,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 Contact
 
-Ayushman Saini - Your GitHub Profile
+Ayushman Saini - GitHub Profile
 [ayushmansaini120@gmail.com]
 
 <!-- end list -->
